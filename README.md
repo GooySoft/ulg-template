@@ -1,6 +1,6 @@
 # A game template for the Subix ULauncher: https://subix.com/ul
 
-# Version File
+#2 Version File
 The Version file is just there to help the ULauncher, if the game has been updated.
 
   # Important
