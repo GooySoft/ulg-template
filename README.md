@@ -1,2 +1,2 @@
-# ulg-template
-A game template for the Subix ULauncher, read the README for more informations.
+# A game template for the Subix ULauncher: https://subix.com/ul
+
