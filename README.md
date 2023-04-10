@@ -9,8 +9,10 @@ A game template for the Subix ULauncher to get started.
    * Edit the Version file like that: 0.0.1 or 0.0.2 for the next updated (it just need to increase)
   
   #### Repo
-   * The Repo needs to be private, otherwise people can access the game without the permission.
+   * The Repo must be private, otherwise people can access the game without the permission.
    * Generate an access key to let the ULauncher permission to access the game, version and keys files.
+    - Settings > wdwd
+   * Make a zip that includes all the files and download the DeZip for ULauncher: https://subix.com/ul/dezip, encrypt the zip file for more security and then upload it here on github.
   
   #### What On The World Is ULauncher?
    * ULauncher stands for Universal Launcher means you can have multiple games in one Launcher, it's good for indie games because it has a simple key system to unlock the game and it's simple to use. AND FREE!
