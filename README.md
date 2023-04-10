@@ -5,7 +5,7 @@ A game template for the Subix ULauncher to get started.
 ## Getting Started
 
   #### Version File 
-   * The Version file is just there to help the ULauncher, if the game has been updated.
+   * The Version file is just there to help the ULauncher, if the game has been updated. (called version.txt)
    * Edit the Version file like that: 0.0.1 or 0.0.2 for the next updated (it just need to increase)
   
   #### Repo
