@@ -2,16 +2,15 @@
 
 A game template for the Subix ULauncher to get started.
 
-## Version File
-The Version file is just there to help the ULauncher, if the game has been updated.
+## Getting Started
 
-  - #### Important
-  Edit the Version file like that: 0.0.1 or 0.0.2 for the next updated (it just need to increas)
+  #### Version File 
+   * The Version file is just there to help the ULauncher, if the game has been updated.
+   * Edit the Version file like that: 0.0.1 or 0.0.2 for the next updated (it just need to increase)
   
-* ### Repo
-The Repo needs to be private, otherwise people can access the game without the permission.
-
-  - #### Generate an access key to let the ULauncher permission to access the game, version and keys files.
+  #### Repo
+   * The Repo needs to be private, otherwise people can access the game without the permission.
+   * Generate an access key to let the ULauncher permission to access the game, version and keys files.
   
 
 * ### What On The World Is ULauncher?
